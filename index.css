@@ -1,0 +1,39 @@
+
+        body{
+            background-image: url(dronebg.jpg);
+            color:#ffffff;
+            
+        }
+        p{
+            text-align:center;
+            font-size: 300%;
+            font-style: oblique;
+        }
+       
+            ul {
+              position: fixed;
+              top: 0;
+              width: 100%;
+              list-style-type: none;
+              margin: 0;
+              padding: 0;
+              overflow: hidden;
+              background-color:rgb(2, 70, 24) ;
+            }
+            
+            li {
+              float: left;
+            }
+            
+            li a {
+              display: block;
+              color: #ffffff;
+              text-align: center;
+              padding: 14px 16px;
+              text-decoration: none;
+            }
+            
+            li a:hover {
+              background-color:rgb(2, 70, 24) ;
+            }
+    
